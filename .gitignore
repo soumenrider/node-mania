@@ -1,0 +1,4 @@
+node_modules/
+Package Control.sublime-package
+package-lock.json
+notes-data.json
